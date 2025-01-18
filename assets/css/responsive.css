@@ -11,7 +11,13 @@
     
     .container .h-experiencia .h-itens .item{
       margin-bottom: 50px;
-    }    
+    }
+    
+    .container .h-habilidades .h-itens .item{
+        align-items: flex-start;
+        width: 100%;
+        margin-bottom: 20px;
+    }
 }
 
 /* 425px */
